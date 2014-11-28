@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/emwi/FlashingmessageTest.svg?branch=master)](https://travis-ci.org/emwi/FlashingmessageTest)
+[![Build Status](https://travis-ci.org/emwi/FlashingmessageTest.svg?branch=master)](https://travis-ci.org/emwi/FlashingmessageTest) [![Code Coverage](https://scrutinizer-ci.com/g/emwi/FlashingmessageTest/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/emwi/FlashingmessageTest/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/emwi/FlashingmessageTest/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/emwi/FlashingmessageTest/?branch=master)
 
 Flashingmessage - for Anax MVC
 =========
