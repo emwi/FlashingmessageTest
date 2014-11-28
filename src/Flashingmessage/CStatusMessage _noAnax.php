@@ -46,7 +46,7 @@ class CStatusMessage
 
         array_push($this->allMessages, $statusMessage);
 
-        $this->session->set($this->sessionVariable, $this->allMessages);
+        $_SESSION[$this->sessionVariable] = $this->allMessages;
     }
 
 
