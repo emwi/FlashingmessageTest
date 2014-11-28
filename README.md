@@ -51,7 +51,7 @@ addWarningMessage($message)
 
 ```
  .  
-..:  Created by Emma Wiklund, wiklund_e@hotmail.com
+..:  Created by Emma Wiklund, wiklund_e@hotmail.com.
 ```
 
 
