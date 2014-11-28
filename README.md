@@ -54,4 +54,4 @@ addWarningMessage($message)
 ..:  Created by Emma Wiklund, wiklund_e@hotmail.com.
 ```
 
-
+https://travis-ci.org/emwi/FlashingmessageTest.svg?branch=master
